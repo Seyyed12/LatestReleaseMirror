@@ -5,3 +5,4 @@
 
 therealaleph/MasterHttpRelayVPN-RUST
 Kianmhz/GooseRelayVPN
+hiddify/hiddify-app
